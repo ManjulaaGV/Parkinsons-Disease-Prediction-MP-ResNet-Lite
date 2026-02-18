@@ -58,20 +58,31 @@ Designed for stability, generalization, and clinical feasibility.
 MP-ResNet-Lite outperformed classical ML baselines across key metrics:
 
 Accuracy
+<img width="630" height="470" alt="Accuracy" src="https://github.com/user-attachments/assets/9b789786-f502-45db-b807-2de9784be02a" />
+
 
 Precision
+<img width="302" height="226" alt="prec" src="https://github.com/user-attachments/assets/5f01e46c-6c83-4e66-84f8-cade7de5c95b" />
+
 
 Recall
+<img width="301" height="224" alt="recall" src="https://github.com/user-attachments/assets/08028a8f-f56d-4cd7-8ae1-3fd3ebb6a895" />
+
 
 F1-Score
+<img width="294" height="219" alt="f1score" src="https://github.com/user-attachments/assets/d398bc2b-248e-4e8e-83dc-48a3563a2fab" />
 
 ROC-AUC
+<img width="361" height="269" alt="rocauc" src="https://github.com/user-attachments/assets/ee51ed0d-39a6-40dd-b38a-07414c2dcc06" />
+
 
 🔹 Model Architecture
+<img width="350" height="594" alt="model_architecture" src="https://github.com/user-attachments/assets/ffec2cf7-164b-4041-a487-0ce8db787aa5" />
+
 
 🔹 Performance Comparison
+<img width="552" height="338" alt="model comparison" src="https://github.com/user-attachments/assets/c13baa92-107a-46d6-82b6-677325bfd40f" />
 
-🔹 Sample Predictions
 
  Interpretability
 
